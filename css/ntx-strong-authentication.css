@@ -1,0 +1,16 @@
+#ntx-xca-select{
+	width:50%;
+	margin: 10% 25% 10% 25%;
+	color:#fff;
+		
+	background : -moz-linear-gradient(top, #2379A1, #E8E8E8);
+	background : -ms-linear-gradient(top, #2379A1, #E8E8E8);
+	background : -o-linear-gradient(top, #2379A1, #E8E8E8);
+	background : -webkit-linear-gradient(top, #2379A1, #E8E8E8);
+	
+	border-top: 1px solid #939494;
+	border-left: 1px solid #939494;
+	border-right: 1px solid #939494;
+	border-bottom: 1px solid #939494;
+	border-radius: 10px 10px 10px 10px;
+}
